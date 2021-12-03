@@ -31,5 +31,5 @@
 ## FAQ
 
 * If you want to add new features to this project please [see the contribution guide](.github/CONTRIBUTING.md)
-* Questions?, <a href="mailto:example@despegar.com?Subject=Question about Project" target="_blank">write here</a>
+* Questions?, <a href="devhighlevel@gmail.com?Subject=Question about Project" target="_blank">write here</a>
 
