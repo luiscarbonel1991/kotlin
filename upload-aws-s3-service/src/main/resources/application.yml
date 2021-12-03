@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: upload-s3-service
+
+server:
+  port: 8080
+
+paths:
+  base: C:\uploads
+aws:
+  s3:
+   buckets:
+     twitch: twitch
+   accessKey: foo
+   secretKey: bar
+   region: us-east-1
