@@ -1,6 +1,9 @@
 
 .idea/
-
+kotlin-app-utils/build
+kotlin-app-utils/.gradle
+kotlin-app-utils/.idea
+kotlin-app-utils/lib
 ktor-simple-crud/gradle/wrapper/
 
 ktor-simple-crud/.gradle/
