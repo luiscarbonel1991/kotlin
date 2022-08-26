@@ -4,8 +4,8 @@ import kotlin.system.measureTimeMillis
 
 fun main(args: Array<String>) = runBlocking {
 
-    val file1 = "/home/luis/Escritorio/work/cards/Motao-628-Migrate-Downlaod-Campaigns/campaign.tsv"
-    val file2 = "/home/luis/Escritorio/work/cards/Motao-628-Migrate-Downlaod-Campaigns/campaign_new.tsv"
+    val file1 = "path1"
+    val file2 = "path2"
     val hasSameOrder: Boolean? = false
     val linesRead = readFilesLines(file1, file2)
 
